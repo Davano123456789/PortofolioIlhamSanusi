@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrap-materi{
+    padding: 2rem;
+    background-color: rgb(0, 0, 83);
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.title-materi{
+    border-radius: 10px;
+    border: 1px solid rgb(164, 158, 255);
+padding: 2rem 5rem;
+box-shadow: rgba(137, 159, 255, 0.212) 0px 5px 15px;
+color: white;
+}
+.title-materi ul li{
+    margin-bottom: 10px;
+
+}
+.title-materi ul{
+    margin-top: 1rem;
+    padding-left: 2rem;
+}
+.title-materi a{
+    color: white;
+    margin-bottom: 1rem;
+}

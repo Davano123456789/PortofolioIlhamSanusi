@@ -1,0 +1,9 @@
+.wrap-menu a{
+text-decoration: none;
+color: rgb(0, 0, 83);
+}
+.wrap-menu{
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+}

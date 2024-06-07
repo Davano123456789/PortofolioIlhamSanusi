@@ -1,0 +1,21 @@
+.img-logo img{
+    margin-left: 2rem;
+    width: 90px;
+
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrap-header{
+    background-color: rgb(0, 0, 83);
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+}
+.title h1{
+    color: white;
+}
+.title{
+    margin: auto;
+}

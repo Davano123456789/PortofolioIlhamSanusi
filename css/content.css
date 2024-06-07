@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrap-content{
+    padding: 2rem;
+    background-color: rgb(0, 0, 83);
+}
+.title-content h2{
+    color: white;
+}
+.title-content{
+    margin-bottom: 4rem;
+}
+
+.wrap-fill li{
+    margin-bottom: 1rem;
+}
+.wrap-fill li h2{
+    font-weight: 700;
+}
+.wrap-fill li h4{
+    color: rgb(122, 112, 255);
+}
+.content{
+    gap: 5rem;
+    margin-bottom: 2rem;
+    display: flex;
+}
+.wrap-fill{
+  border: 1px solid rgb(73, 73, 255);
+    padding: 2rem;
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: rgba(137, 159, 255, 0.212) 0px 5px 15px;
+}
+.fill{
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 0 5rem;
+
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(73, 73, 255);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+.fill h3{
+    color: rgb(164, 158, 255);
+}
+.fill a{
+    color: white;
+}
+.fill img{
+    width: 30%;
+}
+.title-pendidikan{
+    margin-top: 3rem;
+    color: white;
+}
+.title-pendidikan ul li{
+    margin-bottom: 5px;
+
+}
+.title-pendidikan ul{
+    margin-top: 1rem;
+    padding-left: 2rem;
+}
+.wrap-pendidikan{
+    display: flex;
+    gap: 13rem;
+ justify-content: center;
+}
+.title-galeri{
+    margin-top: 3rem;
+    color: white;
+}
+.galeri{
+    margin-top: 2rem;
+   justify-content: center;
+    display: flex;
+    gap: 1rem;
+}
+.galeri img{
+    width: 350px;
+    height: 350px;
+}
